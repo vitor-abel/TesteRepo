@@ -4,4 +4,8 @@ Obi Wan Kenobi
 Chewbacca
 Leia Organa
 Han Solo
+HEAD
 Jabba
+Mace Windu
+Master Yoda
+
